@@ -1,1 +1,1 @@
-# Distance-Measurement-Using-Stereo-Vision-Algorithm
+# Determination of Latitude and Longitude of Traffic Sign Using Stereo Camera Vision Algorithm
